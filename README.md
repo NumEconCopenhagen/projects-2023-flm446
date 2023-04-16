@@ -1,9 +1,9 @@
-# Data analysis project
+# \[FLM446\]
 
-My project is titled ** Evolution of CO2 emissions ** and is about how CO2 emissions per capita have evolved in different regions of the world relative to their levels in 1990. I use data from the World Bank on CO2 emissions and population.
+**Group members:**
+- FLM446
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-`#%pip install pandas-datareader
+This repository contains  
+1. Inaugural project. 
+2. Data project. We fetch data from the **World Bank x** on **CO2 emissions and population** and show that some parts of the world increase their CO2 emissions per capita while others decrease their emissions.
+3. Model project. We model ...
